@@ -42,6 +42,10 @@ $(document).ready(function () {
 
     $('.customScroll').mCustomScrollbar();
 
+    $('.customScroll2').mCustomScrollbar({
+        axis: "x"
+    });
+
 
 
     // custom select

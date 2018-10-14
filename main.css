@@ -23,7 +23,8 @@ body {
     align-items: center;
 }
 
-.customScroll {
+.customScroll,
+.customScroll2 {
     width: 280px;
     height: 290px;
     overflow: hidden;
