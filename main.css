@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+}
+
+.section {
+
+    width: 100%;
+}
+
+.section-1 {
+    background: red;
+}
+.section-2 {
+    background: indigo;
+}
+
+.section-3 {
+    background: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customScroll {
+    width: 280px;
+    height: 290px;
+    overflow: hidden;
+}
+
+.section-4 {
+    background: yellow;
+}
+
+.section-5 {
+    background: darkblue;
+}
